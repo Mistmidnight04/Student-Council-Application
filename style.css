@@ -54,3 +54,21 @@ ul {
     border-color: #01ff23;
     background: #3700ff;
 }
+
+.goto-survey2 {
+    color: rgb(255, 0, 0);
+    background-color: rgb(32, 90, 20);
+    padding: 2%;
+    border-radius: 50px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.goto-survey2:hover {
+    color: gold;
+    border-color: #ff0d00;
+    background: #e83434;
+}
+
+.highlight {
+    color: red;
+}
